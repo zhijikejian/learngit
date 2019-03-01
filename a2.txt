@@ -4,7 +4,3 @@ third
 fouth
 fifth
 sixth
-<<<<<<< HEAD
-=======
-seveth
->>>>>>> newbranch
