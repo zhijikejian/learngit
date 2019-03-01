@@ -4,5 +4,3 @@ third
 fouth
 fifth
 sixth
-seveth
-8
